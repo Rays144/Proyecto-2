@@ -1,0 +1,18 @@
+import React from 'react'
+
+export default function Content() {
+  return (
+    <div className="content-wrapper">
+      <body>
+
+
+
+
+
+      
+
+      </body>
+    </div>
+    
+  )
+}
