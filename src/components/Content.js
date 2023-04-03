@@ -14,7 +14,7 @@ export default function Content() {
       <div className="row full-height justify-content-center">
         <div className="col-12 text-center align-self-center py-5">
           <div className="section pb-5 pt-5 pt-sm-2 text-center">
-            <h6 className="mb-0 pb-3"><span>Iniciar Sesión</span><span>Registrarse</span></h6>
+            <h6 className="mb-0 pb-3"><span>Iniciar Sesi&iacute;</span><span>Registrarse</span></h6>
             <input className="checkbox" type="checkbox" id="reg-log" name="reg-log" />
             <label htmlFor="reg-log" />
             <div className="card-3d-wrap mx-auto">
