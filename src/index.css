@@ -194,14 +194,14 @@ code {
 }
 
 .main-footer {
-  background-color: #2b2e38;
-  color: #c4c3ca;
-  padding: 20px;
-  text-align: center;
-  font-size: 12px;
-  position: fixed;
-  bottom: 0;
-  width: 100%;
+  background-color: #2b2e38 !important;
+  color: #c4c3ca !important;
+  padding: 15px !important;
+  text-align: center !important;
+  font-size: 12px !important;
+  position: fixed !important;
+  bottom: 0 !important;
+  width: 90% !important;
 }
 .main-header {
   background-color: #2b2e38;
